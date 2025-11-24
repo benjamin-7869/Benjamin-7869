@@ -35,3 +35,23 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## 🏆 ACHIEVEMENTS & CERTIFICATIONS
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Professional+Achievements" alt="Achievements Line 1" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Continuous+Learning+%26+Growth" alt="Achievements Line 2" />
+
+</div>
+
+| 🎯 Skill Area | 📊 Proficiency | 🔥 Experience | 🏆 Level |
+|---------------|-----------------|---------------|----------|
+| 🔐 Ethical Hacking | ████████████ 95% | 5+ Years | Expert |
+| 🕵️ OSINT Research | ████████████ 90% | 4+ Years | Expert |
+| 🐍 Python Development | ███████████░ 85% | 6+ Years | Advanced |
+| 🛡️ Cybersecurity | ████████████ 92% | 5+ Years | Expert |
+| 💻 Penetration Testing | ███████████░ 88% | 4+ Years | Advanced |
+| 🌐 Network Security | ██████████░░ 80% | 3+ Years | Intermediate |
+
+---
+
+<div align="center">
