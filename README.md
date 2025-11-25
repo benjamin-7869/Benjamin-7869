@@ -57,3 +57,12 @@
 ---
 
 <div align="center">
+
+**"Securing the digital world, one line of code at a time."**
+
+<img src="https://komarev.com/ghpvc/?username=Hackethics138&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=2000&color=00FF41&center=true&vCenter=true&multiline=false&width=500&lines=Thank+you+for+visiting" alt="Farewell Message Line 1" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=2000&color=00FF41&center=true&vCenter=true&multiline=false&width=500&lines=Stay+secure%2C+stay+ethical" alt="Farewell Message Line 2" />
+
+</div>
